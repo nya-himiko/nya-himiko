@@ -1,10 +1,15 @@
-<img src="./header-image.png" />
-
+![Header Image](./header-image.png)
 <div align="center">
-  <p>Hi! I'm Himiko! Welcome to my profile. I'm a freelance front-end developer from Vietnam. I like coding and playing games. I'm learning Python, C++, Java, React, Vue, and Tailwind CSS. I'm also learning graphic design and UI/UX design.</p>
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=nya-himiko&include_all_commits=true&count_private=true&show_icons=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&border_color=30363d&bg_color=161b22" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nya-himiko&background=161b22&fire=c9d1d9&border=30363d&dates=c9d1d9&currStreakLabel=c9d1d9&ring=c9d1d9&stroke=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&&sideLabels=c9d1d9" width="49%" />
+Hi! I'm Himiko! Welcome to my profile. I'm a freelance front-end developer from Vietnam. I like coding and playing games. I'm learning Python, C++, Java, React, Vue, and Tailwind CSS. I'm also learning graphic design and UI/UX design.
+
+## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nya-himiko&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nya-himiko&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nya-himiko&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nya-himiko&theme=dracula&margin-w=4&margin-h=4)
+
   <h3>Connections</h3>
   <img src="./discord.png" height="30px" />
   <a href="#">
