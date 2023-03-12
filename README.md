@@ -3,6 +3,9 @@
 Hi! I'm Himiko! Welcome to my profile. I'm a freelance front-end developer from Vietnam. I like coding and playing games. I'm learning Python, C++, Java, React, Vue, and Tailwind CSS. I'm also learning graphic design and UI/UX design.
 
 ## GitHub Stats
+  
+  [<img src="https://https://yukii-aoi.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](LINK_TO_YOUR_ACCOUNT)
+  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nya-himiko&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nya-himiko&theme=dracula)](https://git.io/streak-stats)
 [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nya-himiko&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
