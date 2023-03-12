@@ -4,7 +4,7 @@ Hi! I'm Himiko! Welcome to my profile. I'm a freelance front-end developer from 
 
 ## GitHub Stats
   
-<img src="https://yukii-aoi-git-main-yukii-aoi.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />
+<img src="https://yukii-pqtgq7pus-yukii-aoi.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nya-himiko&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nya-himiko&theme=dracula)](https://git.io/streak-stats)
