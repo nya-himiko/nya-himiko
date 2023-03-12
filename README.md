@@ -2,7 +2,7 @@
 <div align="center">
 Hi! I'm Himiko! Welcome to my profile. I'm a freelance front-end developer from Vietnam. I like coding and playing games. I'm learning Python, C++, Java, React, Vue, and Tailwind CSS. I'm also learning graphic design and UI/UX design.
 
-[![GitHub Streak](https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://yukii-aoi.vercel.app/api?theme=dark&scan=true&rainbow=true)](https://git.io/streak-stats)
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nya-himiko&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
